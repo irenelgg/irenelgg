@@ -1,13 +1,9 @@
-# 👋 Hi there, I'm Ireneee!
-
-**👨‍💻 Software Engineer | 💡 AI Enthusiast | 🌱 Lifelong Learner**
-
 ---
 
 ## 👨‍🎓 About Me  
 I’m a **Computer Science** student at **UC Berkeley**, passionate about building impactful software solutions and exploring the intersection of **AI and biotechnology**. I focus on developing scalable systems and tools that solve real-world problems.
 
-- 🔍 **Current Focus**: AI/ML Infrastructure
+- 🔍 **Current Focus**: AI/ML Infrastructure, Software Engineering
 - 🌍 **Vision**: Making AI accessible, scalable, and impactful  
 - 🎯 **Goal**: Build technology that delivers meaningful results  
 

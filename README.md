@@ -23,18 +23,9 @@ I’m a **Computer Science** student at **UC Berkeley**, passionate about buildi
 
 ## 🚀 Projects  
 
-### 🌟 **InSkin: AI-Driven Skincare Recommendations**  
-- Co-founder and Backend Developer  
-- Built a scalable backend with **FastAPI** and a responsive frontend with **React Native**.  
-- Uses AI to provide personalized skincare solutions.
-
 ### 🌟 **Beyond Sports: Accessible Adaptive Sports Platform**  
 - Developed a Node.js and SQLite-based application to improve accessibility for adaptive sports.  
 - Integrated AI tools to automate content creation.
-
-### 🌟 **Bio-AI Research: Predicting Alzheimer’s Progression**  
-- Applied deep learning models to predict Alzheimer’s disease progression.  
-- Focused on health tech innovations with **PyTorch** and generative models.
 
 ---
 

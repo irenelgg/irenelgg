@@ -56,5 +56,5 @@ Outside of coding and research, I enjoy exploring new cities, staying curious ab
 
 ---
 
-## WHO IS SOMEONE YOU LOOK UP TO IN YOUR FIELD?
+### WHO IS SOMEONE YOU LOOK UP TO IN YOUR FIELD?
 - Hidden

@@ -1,6 +1,8 @@
 
 ## 👨‍🎓 About Me  
-I’m a **Computer Science** student at **UC Berkeley**, passionate about building impactful software solutions and exploring the intersection of **AI and biotechnology**. I focus on developing scalable systems and tools that solve real-world problems.
+I’m a Computer Science student at UC Berkeley, driven by a passion for building impactful software solutions and exploring the intersection of AI and biotechnology. Growing up surrounded by individuals with diverse challenges has fueled my motivation to create tools that address real-world problems and improve lives. I approach my work with a focus on scalability, efficiency, and purpose, believing that technology is most meaningful when it delivers tangible results.
+
+Outside of coding and research, I enjoy exploring new cities, staying curious about advancements in AI, and diving into thought-provoking content like the HBO series Westworld. One quote that deeply resonates with me is from the movie Her: "Sometimes I think I’ve felt everything I’m ever gonna feel, and from here on out, I’m not gonna feel anything new — just lesser versions of what I’ve already felt." This reminds me of the boundless potential of technology to evoke emotions and connect us in ways we never thought possible.
 
 - 🔍 **Current Focus**: AI/ML Infrastructure, Software Engineering
 - 🌍 **Vision**: Making AI accessible, scalable, and impactful  
@@ -52,3 +54,7 @@ I’m a **Computer Science** student at **UC Berkeley**, passionate about buildi
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/irenelgg)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:irenewithlove.lee@gmail.com)
 
+---
+
+## WHO IS SOMEONE YOU LOOK UP TO IN YOUR FIELD?
+- Hidden
